@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/app_zixun" />
+    <group android:id="@+id/g1">
+        <item android:id="@+id/zhihu" android:checkable="true" android:checked="true" android:title="@string/app_zhihu" android:icon="@mipmap/ic_drawer_zhihu"/>
+        <item android:id="@+id/wechat" android:checkable="true" android:title="@string/app_wechat" android:icon="@mipmap/ic_drawer_wechat"/>
+        <item android:id="@+id/gank"  android:checkable="true" android:title="@string/app_gank" android:icon="@mipmap/ic_drawer_gank"/>
+        <item android:id="@+id/gold" android:checkable="true" android:title="@string/app_gold" android:icon="@mipmap/ic_drawer_gold"/>
+        <item android:id="@+id/vtex" android:checkable="true"  android:title="@string/app_vtex" android:icon="@mipmap/ic_drawer_vtex"/>
+
+
+    </group>
+    <item android:title="@string/app_select" />
+
+    <group android:id="@+id/g2">
+        <item android:id="@+id/collect" android:title="@string/app_collect" android:checkable="true" android:icon="@mipmap/ic_drawer_like"/>
+        <item android:id="@+id/setting" android:title="@string/app_setting" android:checkable="true" android:icon="@mipmap/ic_drawer_setting"/>
+        <item android:id="@+id/about" android:title="@string/app_about" android:checkable="true" android:icon="@mipmap/ic_drawer_about"/>
+
+
+    </group>
+
+
+</menu>

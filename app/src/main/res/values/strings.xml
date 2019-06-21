@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NewGeekNews</string>
+    <string name="geek">GeekNews</string>
+
+    <string name="app_zixun">资讯</string>
+    <string name="app_zhihu">知乎日报</string>
+    <string name="app_wechat">微信精选</string>
+    <string name="app_gank">干货集中营</string>
+    <string name="app_gold">稀土掘金</string>
+    <string name="app_select">选项</string>
+    <string name="app_about">关于</string>
+    <string name="app_setting">设置</string>
+    <string name="app_collect">收藏</string>
+    <string name="app_vtex">V2EX</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">搜索</string>
+
+</resources>
